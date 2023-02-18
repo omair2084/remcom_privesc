@@ -31,7 +31,7 @@ The command completed successfully.
 
 
 ```
-# python3 psexec_remcom.py test@10.10.10.169 -file /tmp/RemComSvc.exe                      1 ⚙
+# python3 psexec_remcom.py test@10.10.10.169 powershell -file /tmp/RemComSvc.exe                      1 ⚙
 Impacket v0.10.0 - Copyright 2022 SecureAuth Corporation
 
 Password:
